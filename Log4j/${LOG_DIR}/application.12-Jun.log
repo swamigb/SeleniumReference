@@ -1,0 +1,10 @@
+20:17:58.507 [main] INFO  demo.Demo - info message
+20:17:58.510 [main] FATAL demo.Demo - fatal message
+20:18:49.057 [main] DEBUG demo.Demo - Debug message
+20:18:49.059 [main] ERROR demo.Demo - error message
+20:18:49.059 [main] INFO  demo.Demo - info message
+20:18:49.059 [main] FATAL demo.Demo - fatal message
+20:18:56.703 [main] DEBUG demo.Demo - Debug message
+20:18:56.705 [main] ERROR demo.Demo - error message
+20:18:56.705 [main] INFO  demo.Demo - info message
+20:18:56.705 [main] FATAL demo.Demo - fatal message

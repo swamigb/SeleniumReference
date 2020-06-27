@@ -1,0 +1,6 @@
+2020-06-15 18:57:10.656 [TestNG-test=Test-2] INFO  myOrg.Tarvels.AppTest2 - Driver initialized
+2020-06-15 18:57:10.656 [TestNG-test=Test-1] INFO  myOrg.Tarvels.AppTest - Driver initialized
+2020-06-15 18:57:10.662 [TestNG-test=Test-1] INFO  myOrg.Tarvels.AppTest - test case started
+2020-06-15 18:57:10.662 [TestNG-test=Test-2] INFO  myOrg.Tarvels.AppTest2 - test case started
+2020-06-15 18:57:17.729 [TestNG-test=Test-2] ERROR myOrg.Tarvels.AppTest2 - test case finished
+2020-06-15 18:57:18.325 [TestNG-test=Test-1] ERROR myOrg.Tarvels.AppTest - test case finished
